@@ -1,0 +1,6 @@
+mkdir mei
+cd mei
+git init
+heroku login
+heroku create mei
+heroku buildpacks:set heroku/nodejs
