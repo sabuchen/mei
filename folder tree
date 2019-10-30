@@ -1,0 +1,9 @@
+
+|   index.html
+|   package.json
+\---res
+        duck.zip
+        marker.png
+        pattern-marker.patt
+        scene.bin
+        scene.gltf
